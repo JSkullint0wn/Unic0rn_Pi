@@ -1,6 +1,7 @@
-# Unic0rn_Pi Pr0j3ct
+# Unic0re_Pi Pr0j3ct
 # 
-# Source : http://www.ascii-art.de/ascii/uvw/unicorn.txt
+# Ascii pictures Source : http://www.ascii-art.de/ascii/uvw/unicorn.txt
+#
 <pre>
 
 
@@ -42,7 +43,7 @@
          L    \('`    \                  ('`    \
           ) _.'\`-....'                   `-....'
          ('`    \
-          `-.___/   sk
+          `-.___/   sk@ndinavia P0w3rfull
 
 
 
@@ -64,12 +65,12 @@
               (='~-_,--/        ,       ,!,___--. \  \_)
              (-/~(     |         \   ,_-         | ) /_|
              (~/((\    )\._,      |-'         _,/ /
-              \\))))  /   ./~.    |           \_\;            Valkyrie 
+              \\))))  /   ./~.    |           \_\;            
            ,__/////  /   /    )  /
             '===~'   |  |    (, <.
                      / /       \. \
                    _/ /          \_\
-                  /_!/            >_\
+                  /_!/            >_\ V@lkyrie Pow3rFull
           </pre>
           #
           #
